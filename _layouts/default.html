@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width">
     <link rel="icon" type="image/png" href="http://www.mikesturm.net/Skeleton/images/Alchemical.png" />
+    <link href="https://fonts.googleapis.com/css?family=Karla:700|Libre+Franklin|Montserrat|Roboto" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -17,20 +18,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Mike Sturm</h1>
-        <style>
-          img {
-            width:25%;
-              }
-        </style>
-        <img src="http://www.mikesturm.net/Skeleton/images/Alchemical.png">
+        <h1 class="title">Mike Sturm</h1>
         <p>Thinker, writer, <i>bon vivant</i>.</p>
 
         <ul>
-          <li><a href="https://twitter.com/aperfectsturm">Read short bits <strong><i class="fa fa-twitter" aria-hidden="true"></i></strong></a></li>
-          <li><a href="https://medium.com/@mikesturm">Read longform <strong><i class="fa fa-medium" aria-hidden="true"></i></strong></a></li>
-          <li><a href="mailto:mike@yourfool.com">Contact Me <strong><i class="fa fa-envelope" aria-hidden="true"></i></strong></a></li>
+          <li><a href="/blog"><strong>Blog</strong></a></li>
+          <li><a href="/recommended-reading"><strong>Reading List</strong></a></li>
         </ul>
+
+
 
       </header>
       <section>
@@ -42,7 +38,12 @@
 
           <p class="view">Subscribe to my newsletter. I won't bother you often.</p>
           <form style="text-align:center;" action="https://tinyletter.com/mike_sturm" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/mike_sturm', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" placeholder="email address" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
-
+          <section>
+            <h2>Elsewhere on the Web</h2>
+              <button type="button"><a href="https://twitter.com/aperfectsturm">Read short bits <i class="fa fa-twitter" aria-hidden="true"></i></a></button>
+              <button type="button"><a href="https://medium.com/@mikesturm">Read longform <i class="fa fa-medium" aria-hidden="true"></i></a></button>
+              <button type="button"><a href="mailto:mike@yourfool.com">Contact Me <i class="fa fa-envelope" aria-hidden="true"></i></a></button>
+          </section>
         <p><small>Copyright 2016 &mdash; All rights reserved.</small></p>
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>
