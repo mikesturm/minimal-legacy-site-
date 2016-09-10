@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Mike Sturm'
+tagline:          'I am but a man, and a foolish one at that. But I am your fool. Your Fool Laureate.'
+description:      'Navigating through reality like a punctured dirigible.'
+url:              http://mikesturm.net
+baseurl:          'http://www.mikesturm.net/minimal/'
+paginate:         10
+excerpt_separator: "<!--more-->"
+
+author:
+  name: 'Mike Sturm'
+  email: 'mike.p.sturm@gmail.com'
+  twitter: aperfectsturm
+  medium: mikesturm
+  disqus_shortname: mike_sturm
+  google_analytics_id: UA-71215621-1
+  google_analytics_url: mikesturm.net
+  bio:
+
+# Custom vars
+version:          1.0.0
