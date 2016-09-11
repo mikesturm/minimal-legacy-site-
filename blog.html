@@ -3,18 +3,18 @@ layout: default
 title: Blog
 ---
 
-
+<div>
   {% for post in paginator.posts %}
-
-  <span class="post-date">{{ post.date | date_to_string }}</span>
-    <h1 class="post-title">
+  <div>
+  <span>{{ post.date | date_to_string }}</span>
+    <h2>
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-    <h2> {{ post.subtitle }}</h2>
+    </h2>
+    <h3> {{ post.subtitle }}</h3>
 
-
+    <div>
 
     {{ post.excerpt }}
     {% capture content_words %}
@@ -27,3 +27,31 @@ title: Blog
     <p><a href="{{ post.url }}#read-more">Read more →</a>
     </p>
     {% endif %}
+
+  <br>
+
+<div style="text-align:center; font-size:small;">
+  <a href="#top">Back to top of page</a>
+</div>
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+<br>
+<div>
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span>Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer"> </span>
+  {% endif %}
+</div>
