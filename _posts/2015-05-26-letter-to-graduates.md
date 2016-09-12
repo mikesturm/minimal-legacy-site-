@@ -5,7 +5,7 @@ subtitle:
 tags: [education, careers, advice]
 description:
 published: true
-permalink: testing
+permalink: {{ site.baseurl }}testing
 comments: true
 ---
 
