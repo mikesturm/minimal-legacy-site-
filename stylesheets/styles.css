@@ -24,6 +24,13 @@ p, ul, ol, table, pre, dl {
 
 }
 
+title.a {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 42px;
+  font-weight:800;
+  text-decoration: none;  
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -33,6 +40,7 @@ h1 {
   font-size:28px;
   font-weight: 700;
 }
+
 
 h2 {
   color:#393939;
