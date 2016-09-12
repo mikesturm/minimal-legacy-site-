@@ -12,7 +12,7 @@ description:      'Navigating through reality like a punctured dirigible.'
 url:              http://mikesturm.net
 baseurl:          'http://www.mikesturm.net/'
 paginate:         10
-excerpt_separator: "<!--more-->"
+# excerpt_separator: "<!--more-->"
 
 author:
   name: 'Mike Sturm'
