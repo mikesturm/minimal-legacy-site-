@@ -8,7 +8,7 @@ title: Blog
   <div>
   <span>{{ post.date | date_to_string }}</span>
     <h2>
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}blog/{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
@@ -24,7 +24,7 @@ title: Blog
       {{ post.excerpt | number_of_words }}
     {% endcapture %}
     {% if excerpt_words != content_words %}
-    <p><a href="{{ post.url }}#read-more">Read more →</a>
+    <p><a href="{{ site.baseurl }}blog/{{ post.url }}#read-more">Read more →</a>
     </p>
     {% endif %}
 
