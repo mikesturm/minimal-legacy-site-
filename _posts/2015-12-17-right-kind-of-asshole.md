@@ -5,7 +5,7 @@ subtitle: You're going to let someone down—choose wisely
 categories: []
 tags: [entrepreneurship, productivity, lifehacks]
 description:
-permalink: blog/right-kind-of-asshole
+permalink: right-kind-of-asshole
 comments: true
 published: true
 ---
