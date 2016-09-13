@@ -4,7 +4,7 @@ title: I am Not The Pancakes---Neither are You
 subtitle: or How I am Learning to Not Be a Defensive, Stammering Buffoon
 tags: [self-improvement, emotional intelligence, growth]
 published: true
-permalink: play-hard
+permalink: i-am-not-the-pancakes
 comments: true
 ---
 
