@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Other Obesity Epidemic
-subtitle: How Information Bloat is Endangering our Mental Fitness, and What We Can Do
-About It
+subtitle: How Information Bloat is Endangering our Mental Fitness, and What We Can Do About It
+permalink: mental-obesity
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*qYgTRiEwBaBht8b70iI58A.jpeg)
