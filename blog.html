@@ -5,11 +5,11 @@ title: Blog
 
 
 
-<ul class="posts">
+<ul class="posts" style="list-style-type:none">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> &nbsp; &nbsp; &#9781; <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+	    <li><span>&#9781; &nbsp;{{ post.date | date_to_string }}</span><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 			</li>
-    
+
 	  {% endfor %}
 	</ul>
