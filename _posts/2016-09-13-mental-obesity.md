@@ -14,7 +14,8 @@ States alone increased a staggering 57%. Other developed countries have seen a
 similar increase, as well.
 
 ![](https://cdn-images-1.medium.com/max/800/1*aFBxX1xdXcEH16pmHOhy0w.jpeg)
-<span class="figcaption_hack">Fig 1. Obesity rate increases over 20 years.</span>
+{: style="text-align: center; font-size: small"}
+Fig 1. Obesity rate increases over 20 years.
 
 Among the factors cited as a major contributor to this drastic increase in
 obesity is the sheer *volume* of food that is now readily available. That is
@@ -29,7 +30,9 @@ easiest food to make, to buy, and to eat are the worst foods for us. As a result
 our diets became more unhealthy over the past few decades, as we began to
 consume more food and food of poorer quality.
 
-<span class="figcaption_hack">Fig. 2 — The makeup of the American diet</span>
+![](https://cdn-images-1.medium.com/max/800/1*B7T7O_AoJNv4ShNKgfc8Yg.png)
+{: style="text-align: center; font-size: small"}
+Fig. 2 — The makeup of the American diet
 
 Interestingly, a similar trend to the one in food consumption has occurred in
 the production and consumption of *information*. The internet has created an
@@ -40,7 +43,8 @@ day](https://www.brandwatch.com/2016/03/96-amazing-social-media-statistics-and-f
 And in the true style of hyper-growth capitalism, that content is exponentially
 growing.
 
-<span class="figcaption_hack">Fig 3 — The Exponential growth of content</span>
+{: style="text-align: center; font-size: small"}
+Fig 3 — The Exponential growth of content
 
 As with food, the easier it has become to publish information, the more the
 quantity has increased and the [quality has
@@ -57,19 +61,21 @@ throwing even more “things of interest” at you by the second. But why do we 
 this attitude toward information— that one can never have too much?
 
 But consider how much time we spend consuming information these days. Also,
-consider how much *more *time we spend consuming it than we used to. The chart
+consider how much *more* time we spend consuming it than we used to. The chart
 below illustrates how much more time respondents in a survey spent consuming
 media this year than the previous year.
 
-<span class="figcaption_hack">Fig 4 — The time spend consuming information. credit: Nielsen</span>
+![])https://cdn-images-1.medium.com/max/1200/1*KtLBHVh6hUYyqUSrJlDt1A.png)
+{: style="text-align: center; font-size: small"}
+Fig 4 — The time spend consuming information. credit: Nielsen
 
 That’s right, in one year, we have increased the amount of time we spend
 consuming information by 10%. But how much of that additional information was
 quality content? See below:
 
 ![](https://cdn-images-1.medium.com/max/800/0*axGCrsH__9Il-YG4.gif)
-<span class="figcaption_hack">Fig 5 — Trust in content. Source:
-[http://contentsmagazine.com/articles/reconsider-the-source/](http://contentsmagazine.com/articles/reconsider-the-source/)</span>
+{: style="text-align: center; font-size: small"}
+Fig 5 — Trust in content. Source: [http://contentsmagazine.com/articles/reconsider-the-source/](http://contentsmagazine.com/articles/reconsider-the-source/)
 
 If 63% of respondents trust web content less than they did 2 years ago, imagine
 what that trust index could look like given the exponential increase in content
@@ -108,7 +114,7 @@ bites, chew for longer, and savor and digest.
 ### Take Smaller Bites
 
 An effective way to sift through all of the writing online is to take small
-bites of anything you *think *you might want to read. This is the equivalent of
+bites of anything you *think* you might want to read. This is the equivalent of
 taking a small bite of something — in order to try it. Scan the entire piece for
 headings. Try to figure out what the piece is trying to say, and look for
 sentences that convey interesting or useful information.
