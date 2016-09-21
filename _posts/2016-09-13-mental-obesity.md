@@ -43,6 +43,7 @@ day](https://www.brandwatch.com/2016/03/96-amazing-social-media-statistics-and-f
 And in the true style of hyper-growth capitalism, that content is exponentially
 growing.
 
+![](https://cdn-images-1.medium.com/max/800/1*m6YAaQomjPkhdhboIhymZQ.jpeg)
 {: style="text-align: center; font-size: small"}
 Fig 3 — The Exponential growth of content
 
@@ -65,7 +66,7 @@ consider how much *more* time we spend consuming it than we used to. The chart
 below illustrates how much more time respondents in a survey spent consuming
 media this year than the previous year.
 
-![])https://cdn-images-1.medium.com/max/1200/1*KtLBHVh6hUYyqUSrJlDt1A.png)
+![](https://cdn-images-1.medium.com/max/1200/1*KtLBHVh6hUYyqUSrJlDt1A.png)
 {: style="text-align: center; font-size: small"}
 Fig 4 — The time spend consuming information. credit: Nielsen
 

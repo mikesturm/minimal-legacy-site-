@@ -6,7 +6,8 @@ permalink: work-in-food-service
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*1rWTZ9OaAWxcm25cokBGqA.jpeg)
-<span class="figcaption_hack">[https://www.flickr.com/photos/nattokun/](https://www.flickr.com/photos/nattokun/)</span>
+{: style="text-align: center; font-size: small"}
+[https://www.flickr.com/photos/nattokun/](https://www.flickr.com/photos/nattokun/)
 
 
 I was at a sandwich provider the other day — a well-known national chain whose
