@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: We Need a Sales Force for the Humanities
+title: We Need a Sales Force for the Humanities
 Subtitle: Fewer students are buying in to the humanities and liberal arts. Here's a new strategy to sell them effectively.
 img: books.png
 permalink: salesforce-for-humanities
@@ -41,7 +41,7 @@ humanities matter. And three, the humanities often do a bad job of teaching the
 humanities. You don’t have to choose only one of these explanations. All three
 apply.
 
-#### The Paradigm Shift
+### The Paradigm Shift
 
 Things were not always this way. In fact, humanities and liberal arts faculty
 had it pretty good in the early days of the university. College educators
@@ -69,16 +69,15 @@ curriculum.
 The problem is this: when we rely on 18 year-olds to dictate what their
 education consists of, we narrow the scope of possibilities of that education,
 and in turn, we narrow the possibilities of what they can do in the future. In
-broader terms, catering to what consumers want only gives them what they *know
-*they want *now*, but at the cost of all of the things they never knew could
+broader terms, catering to what consumers want only gives them what they *know* they want *now*, but at the cost of all of the things they never knew could
 enrich their lives. By demanding that higher education look more like
 job-training, we end up missing the forest of a life full of possibilities for
 the trees of just getting whatever the job *du jour* is.
 
-#### A Call to Action
+### A Call to Action
 
 There is a call to action here, because the danger of this paradigm shift is
-that the *context *of market demand* *poses a threat to the *content* of the
+that the *context* of market demand poses a threat to the *content* of the
 humanities education. If humanities educators can adapt to the changing context,
 they can resist a change to the content of the humanities education. But the way
 of adapting is to yield — at leas initially — to the paradigm shift.
@@ -96,9 +95,9 @@ essentially *be* in sales. The good news, however, is that we are selling a
 product that we *whole-hardheartedly* believe in. This is a luxury that few
 salespeople have.
 
-### **How to Sell the Humanities**
+## **How to Sell the Humanities**
 
-#### 1. Recognize that wants are not needs. Filling a need sells.
+### 1. Recognize that wants are not needs. Filling a need sells.
 
 Students in this new market paradigm are focused on getting jobs; in most cases,
 all else is prioritized below that goal. For a student entering college today,
@@ -112,10 +111,10 @@ early job training — they *need* a well-rounded education. There is a disconne
 that faculty must address and remedy before any student can be convinced of the
 value of the subject matter of the humanities. That gap-bridging needs to be
 front and center until the students and the educators are on the same page about
-the value of the content. In other words, the *context *must be that of selling
+the value of the content. In other words, the *context* must be that of selling
 through meeting a need, while highlighting how important the *content* is.
 
-#### 2. Telling is not selling.
+### 2. Telling is not selling.
 
 Questions are the most valuable tools you can utilize in sales. Since the new
 educational paradigm is forcing educators to sell the value of the material they
@@ -130,7 +129,7 @@ existence. Interestingly, human existence includes business-related subject
 matter — like accounting and finance — so the bulk of the student body need not
 fear the humanities!
 
-#### 3. Speak the customers’ language, until they begin speaking yours.
+### 3. Speak the customers’ language, until they begin speaking yours.
 
 This point is of the utmost importance in really getting buy-in from students.
 Acknowledge *their* feelings, *their* worries, *their* stresses, and show them
@@ -159,7 +158,7 @@ consequences of following it, and wrap it all up with a bow while showing how
 philosophy deals with exactly that — all punctuated with some jokes for warmth.
 
 The point is, getting the students to unknowingly do the work of the humanities
-in very rough terminology — but *their *terminology — allows for an easy inroad.
+in very rough terminology — but *their* terminology — allows for an easy inroad.
 Once that inroad is made, some sales can be made. Once that sale is made,
 students can make the sale to their parents, their communities, and the pundits
 who set the tone of the discussion about education in America. That’s how the
