@@ -24,12 +24,12 @@ p, ul, ol, table, pre, dl {
 
 }
 
-.title h1 a {
+h1.title a {
   font-family: 'Libre Franklin', sans-serif;
-  font-size: 3.3em;
+  font-size: 1.75em;
   font-weight:800;
-  color:#222;
   text-decoration: none;
+  color:#232527;
   border-bottom: 4px solid #F5D04C;
 }
 
