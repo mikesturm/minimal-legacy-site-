@@ -31,14 +31,18 @@ Preamble aside, below are links to a curated list my writing, which I update reg
 
 - [Kill the Buddha, Kill Your Teachers](https://medium.com/art-marketing/kill-the-buddha-kill-your-teachers-391040e77d17)
 
--[The Miyagi Method for Better Creative Work](https://writingcooperative.com/the-miyagi-method-for-creative-work-5e2a752fcda2)
+- [The Miyagi Method for Better Creative Work](https://writingcooperative.com/the-miyagi-method-for-creative-work-5e2a752fcda2)
 
 - [The 3:1 Principle for Radically Better Communication](https://entrepreneurs.maqtoob.com/the-3-1-principle-for-radically-better-communication-9bae1e528abf)
-<!--
-https://medium.com/personal-growth/the-practical-case-for-mercy-1a9b2c05048d
-https://writingcooperative.com/the-most-creative-thing-you-are-already-doing-874b8d4037b1
-https://theascent.biz/give-way-to-your-worst-impulse-f02bc0209640
-https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa
+
+- [The Practical Case for Mercy](https://medium.com/personal-growth/the-practical-case-for-mercy-1a9b2c05048d)
+
+- [The Most Creative Thing You are Already Doing](https://writingcooperative.com/the-most-creative-thing-you-are-already-doing-874b8d4037b1)
+
+- [Give Way to Your Worst Impulse](https://theascent.biz/give-way-to-your-worst-impulse-f02bc0209640)
+
+- [The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
+
 https://extranewsfeed.com/15-years-later-the-goal-is-still-peace-bc36d5eaaf48
 https://writingcooperative.com/actually-its-not-passion-you-re-after-d8b79247ec0e
 https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3
