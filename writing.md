@@ -8,20 +8,33 @@ I used to keep an updated blog here on my homepage, but as I publish more stuff 
 Preamble aside, below are links to a curated list my writing, which I update regularly as links to pieces on Medium. Enjoy.
 
 - [The Best Leaders Follow](https://entrepreneurs.maqtoob.com/the-best-leaders-follow-a060d4470fd4)
+
 - [Self-Help Title Fails and the Sincerity Gap](https://writingcooperative.com/self-help-title-fails-ce3d58c83e39)
+
 - [In our Rush to Be Great, Let's Not Forget to Be Good](https://medium.com/personal-growth/in-our-rush-to-be-great-lets-not-forget-to-be-good-2e6de54b2f9f)
+
 - [What If You Invoiced Yourself for All of Your Time?](https://hackernoon.com/what-if-you-invoiced-yourself-for-all-of-your-time-eb0542277876)
+
 - [It's Just Practice](https://medium.com/personal-growth/its-just-practice-70d6984022c3)
+
+- [What Old-School Manufacturing Can Teach New-School Entrepreneurs](https://entrepreneurs.maqtoob.com/what-old-school-manufacturing-can-teach-entrepreneurs-dd8722342a5)
+
+- [We Forget to Breathe](https://medium.com/personal-growth/we-forget-to-breathe-66691a347164)
+
+- [Improvement, Not Success](https://writingcooperative.com/improvement-not-success-51917923b7c6)
+
+- [The Most Important Relationship of Your Life](https://medium.com/personal-growth/the-most-important-relationship-in-your-life-5d6b2779b561)
+
+- [We Need a Sales-force for the Humanities](https://extranewsfeed.com/we-need-a-sales-force-for-the-humanities-6414fceefb7)
+
+- [Your Work is Never Done](https://writingcooperative.com/your-work-is-never-done-7a22083688)
+
+- [Kill the Buddha, Kill Your Teachers](https://medium.com/art-marketing/kill-the-buddha-kill-your-teachers-391040e77d17)
+
+-[The Miyagi Method for Better Creative Work](https://writingcooperative.com/the-miyagi-method-for-creative-work-5e2a752fcda2)
+
+- [The 3:1 Principle for Radically Better Communication](https://entrepreneurs.maqtoob.com/the-3-1-principle-for-radically-better-communication-9bae1e528abf)
 <!--
-https://entrepreneurs.maqtoob.com/what-old-school-manufacturing-can-teach-entrepreneurs-dd8722342a5
-https://medium.com/personal-growth/we-forget-to-breathe-66691a347164
-https://writingcooperative.com/improvement-not-success-51917923b7c6
-https://medium.com/personal-growth/the-most-important-relationship-in-your-life-5d6b2779b561
-https://extranewsfeed.com/we-need-a-sales-force-for-the-humanities-6414fceefb7
-https://writingcooperative.com/your-work-is-never-done-7a22083688
-https://medium.com/art-marketing/kill-the-buddha-kill-your-teachers-391040e77d17
-https://writingcooperative.com/the-miyagi-method-for-creative-work-5e2a752fcda2
-https://entrepreneurs.maqtoob.com/the-3-1-principle-for-radically-better-communication-9bae1e528abf
 https://medium.com/personal-growth/the-practical-case-for-mercy-1a9b2c05048d
 https://writingcooperative.com/the-most-creative-thing-you-are-already-doing-874b8d4037b1
 https://theascent.biz/give-way-to-your-worst-impulse-f02bc0209640
