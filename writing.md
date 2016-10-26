@@ -42,7 +42,7 @@ Preamble aside, below are links to a curated list my writing, which I update reg
 - [Give Way to Your Worst Impulse](https://theascent.biz/give-way-to-your-worst-impulse-f02bc0209640)
 
 - [The Next Obesity Epidemic](https://extranewsfeed.com/the-other-obesity-epidemic-8d5ffc6407fa)
-
+<!--
 https://extranewsfeed.com/15-years-later-the-goal-is-still-peace-bc36d5eaaf48
 https://writingcooperative.com/actually-its-not-passion-you-re-after-d8b79247ec0e
 https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3
