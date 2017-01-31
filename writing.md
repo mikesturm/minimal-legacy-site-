@@ -3,6 +3,7 @@ layout: page
 title: Writing
 ---
 
+
 I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://tinyletter.com/mike_sturm), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:mike@yourfool.com). I'm open to coutnerarguments.
 
 Preamble aside, below are links to a curated list my writing, which I update regularly as links to pieces on Medium. Enjoy.
@@ -49,7 +50,7 @@ Preamble aside, below are links to a curated list my writing, which I update reg
 
 - [Why Everyone Should Work in Food Service](https://theascent.biz/why-everyone-should-work-in-food-service-3e94fad2e2e3)
 
-  https://entrepreneurs.maqtoob.com/make-your-procrastination-work-for-you-db89fe262499
+  <!--https://entrepreneurs.maqtoob.com/make-your-procrastination-work-for-you-db89fe262499
   https://medium.com/your-fool-laureate/happy-labor-day-5eb55d25f1de
   https://writingcooperative.com/on-being-stuck-and-what-we-should-do-about-it-f5a57173dec1
   https://extranewsfeed.com/whats-wrong-with-inspirational-and-personal-development-writing-on-medium-9a2fe3d72f0e
