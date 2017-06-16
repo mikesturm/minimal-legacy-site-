@@ -6,7 +6,7 @@ title: Writing
 
 I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://tinyletter.com/mike_sturm), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:mike@yourfool.com). I'm open to coutnerarguments.
 
-Preamble aside, below are links to a curated list my writing, which I update regularly as links to pieces on Medium. Enjoy.
+Preamble aside, below are links to a curated list my writing--sorted roughly by warmth of reception--which I update regularly as links to pieces on Medium. Enjoy.
 
 
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
