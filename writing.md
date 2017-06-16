@@ -9,7 +9,6 @@ I used to keep an updated blog here on my homepage, but as I publish more stuff 
 Preamble aside, below are links to a curated list my writing--sorted roughly by warmth of reception--which I update regularly as links to pieces on Medium. Enjoy.
 
 
-[4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
 
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
 
