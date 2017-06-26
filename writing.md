@@ -9,6 +9,8 @@ I used to keep an updated blog here on my homepage, but as I publish more stuff 
 Preamble aside, below are links to a curated list my writing--sorted roughly by warmth of reception--which I update regularly as links to pieces on Medium. Enjoy.
 
 
+[Think Like No One Else](https://medium.com/personal-growth/think-like-no-one-else-58d5485a9975)
+
 
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
 
@@ -208,6 +210,8 @@ Preamble aside, below are links to a curated list my writing--sorted roughly by 
 
 [A Few Useful Things I’ve Learned — No Fancy Title](https://thecoffeelicious.com/a-few-useful-things-ive-learned-no-fancy-title-c6a9ac70342f)
 
+
+[The Productive Power of the Wandering Mind](https://medium.com/personal-growth/in-defense-of-the-wandering-mind-f05d3611748e)
 
 
 [Write, To Remain Silent](https://writingcooperative.com/write-to-remain-silent-7dbb88f059a6)
