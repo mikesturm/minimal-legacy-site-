@@ -4,12 +4,23 @@ title: Writing
 ---
 
 
-I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://tinyletter.com/mike_sturm), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:mike@yourfool.com). I'm open to coutnerarguments.
+I used to keep an updated blog here on my homepage, but as I publish more stuff on [Medium](http://medium.com/@mikesturm), and publish [a weekly newsletter](http://us11.campaign-archive2.com/home/?u=90261a3476981959e9fb98a34&id=18e37d8762), I find that it adds little value to keep my writing here as well. If you disagree, and would like to see it here, [drop me a line](mailto:info@mikesturm.net). I'm open to coutnerarguments.
 
 Preamble aside, below are links to a curated list my writing--sorted roughly by warmth of reception--which I update regularly as links to pieces on Medium. Enjoy.
 
 
 [Think Like No One Else](https://medium.com/personal-growth/think-like-no-one-else-58d5485a9975)
+
+[A Better, Easier Way to Journal](https://medium.com/@MikeSturm/a-better-easier-way-to-journal-45e9245f8a57)
+
+[A Simple Method for Mindfulness When Things Get Tough](https://medium.com/personal-growth/a-simple-method-for-mindfulness-when-things-get-tough-1c763a6a2ad8)
+
+[How to Dramatically Sharpen Your Attention and Focus](https://medium.com/personal-growth/how-to-dramatically-sharpen-your-attention-and-focus-416444802997)
+
+[The Secret Sauce of Incredible Productivity](https://medium.com/personal-growth/the-secret-sauce-of-incredible-productivity-5a3b997a3b4)
+
+[The Art and Science of Open-Mindedness](https://medium.com/personal-growth/the-art-and-science-of-open-mindedness-5da63512da69)
+
 
 
 [4 Mental Habits to Help You Get the Most Out of Your Mind](https://medium.com/personal-growth/4-mental-habits-to-aid-in-personal-growth-a40953e4fa6f)
